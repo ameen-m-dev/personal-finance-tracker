@@ -90,6 +90,3 @@ Groceries,500.00,245.67,254.33
 Transportation,200.00,135.00,65.00
 ```
 
-## License
-
-MIT License
